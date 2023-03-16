@@ -1,5 +1,5 @@
 # 💫 About Me:
-Prazer meu nome é Anderson Leandro<br>Tenho 23 anos<br>Atualmente sou Estudante de Front End<br>Seja Bem vindo ao meu Perfil e espero que goste dos meus Projeto.
+Prazer meu nome é Anderson Leandro<br>Tenho 23 anos<br>Atualmente sou Estudante de Front End<br>Seja Bem vindo ao meu Perfil e espero que goste dos meus Projetos.
 
 
 ## 🌐 Socials:
